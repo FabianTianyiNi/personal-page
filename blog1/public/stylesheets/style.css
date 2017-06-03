@@ -1,8 +1,19 @@
 body {
-  padding: 50px;
+  padding: 10px;
+  width: 320px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: transparent;
+  background-image: url("../images/personal page bkgd.jpg");
 }
 
 a {
   color: #00B7FF;
+}
+
+.bkgd{background-color: rgba(204, 204, 204, 0.5);
+      font-style: normal;
+      -moz-border-radius: 8px;
+      -webkit-border-radius: 8px;
+      border-radius: 8px;
+
 }
